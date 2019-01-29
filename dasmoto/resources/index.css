@@ -1,0 +1,28 @@
+h1 {
+    background-image: url("/users/patastroope/Desktop/dasmoto/resources/pattern.jpeg");
+    font-size: 100px; font-family: helvetica;
+    font-weight: bold; color: khaki;
+  }
+h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+  }
+ .greenbar {
+    background-color: mediumspringgreen;
+  }
+ .coralbar {
+background-color: coral;
+}
+ .bluebar {
+background-color: skyblue;
+}
+ h3, .text {
+    font-family: helvetica;
+    }
+.textcolor {
+      color: blue;
+      font-family: helvetica;
+      font-weight: bold;
+    }
